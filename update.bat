@@ -1,0 +1,1 @@
+.\PortableGit\bin\git pull
